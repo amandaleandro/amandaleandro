@@ -1,7 +1,7 @@
 
 # Perfil de DevOps/SRE e Desenvolvedora Fullstack
 
-Olá! 👋 Bem-vindo ao meu perfil do GitHub. Sou apaixonado por DevOps, SRE e desenvolvimento fullstack, e este é o lugar onde compartilho meus projetos, aprendizados e ideias.
+Olá! 👋 Bem-vindo ao meu perfil do GitHub. Sou apaixonada por DevOps, SRE e desenvolvimento fullstack, e este é o lugar onde compartilho meus projetos, aprendizados e ideias.
 
 ## Sobre Mim
 
