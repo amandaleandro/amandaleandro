@@ -19,23 +19,6 @@ Meu nome é Amanda Leandro Soares Do Carmo, e sou um(a) profissional de tecnolog
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis, etc.
 - **Ferramentas de CI/CD:** Jenkins, GitLab CI/CD, Travis CI, GitHub Actions, etc.
 
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos destacados:
-
-- 
-- 
-- 
-
-## Artigos e Tutoriais
-
-Além dos projetos, também gosto de escrever artigos e tutoriais sobre temas relacionados à tecnologia. Aqui estão alguns dos meus artigos recentes:
-
-- 
-- 
-- 
-
-## Como Entrar em Contato
 
 - **LinkedIn:** [Amanda Leandro Soares do Carmo](https://www.linkedin.com/in/amandalscarmo/)
 - **Email:** amandaleandrosoares@gmail.com
